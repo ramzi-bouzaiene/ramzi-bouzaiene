@@ -18,7 +18,7 @@ On the DevOps side, I excel in containerization and orchestration with Docker an
 * 🧠  Currently, I am working as a Back-end Engineer specializing in Java and Spring Boot, while also expanding my expertise in DevOps technologies to enhance my skill set.
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I am open to every tech thrown at me, I am not afraid to jump and learn whatever tool solves the problem at hand, in the best way possible.
-* 🏠  My main GitHub account: [ramzi-bouzaiene](https://github.com/ramzi-bouzaiene)
+* 🏠  My main GitHub account: [ramzibouzaiene](https://github.com/ramzibouzaiene)
  
 ## 🛠 Technologies
 
