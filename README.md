@@ -4,7 +4,7 @@
  
 <img src="https://komarev.com/ghpvc/?ramzibouzaiene&style=flat-square&color=blue" alt=""/>
  
-Hi 👋 My name is <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank">Ramzi Bouzaiene</a>
+Hi 👋 My name is <a href="https://ramzibouzaiene.vercel.app/" target="_blank">Ramzi Bouzaiene</a>
 ================================
  
 Full Stack Software Engineer
