@@ -19,6 +19,8 @@ On the DevOps side, I excel in containerization and orchestration with Docker an
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I am open to every tech thrown at me, I am not afraid to jump and learn whatever tool solves the problem at hand, in the best way possible.
 * 🏠  My main GitHub account for my old projects : [ramzibouzaiene](https://github.com/ramzibouzaiene)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Yeachan-Heo/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
  
 ## 🛠 Technologies
 
