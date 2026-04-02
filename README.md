@@ -75,6 +75,6 @@ On the DevOps side, I excel in containerization and orchestration with Docker an
  
 ### Socials
  
-<p align="left"> <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@ramzibouzaiene.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://ramzibouzaiene.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@ramzibouzaiene.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzi-bouzaiene&theme=dark&show_icons=true)
+![Ramzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzi-bouzaiene&theme=dark&show_icons=true)
