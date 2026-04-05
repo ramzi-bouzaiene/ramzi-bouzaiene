@@ -13,20 +13,12 @@ Full Stack Software Engineer
 With 4+ years of experience, I've built things that run in production and stay running.
  
 That's the job. Not just writing code, but writing code that holds up at 2am when something breaks, that your teammates can actually read six months later, and that ships without the usual coordination overhead.
- 
-My day-to-day lives in Java and Spring Boot, designing REST APIs and microservices that are boring in the best way: predictable, observable, and easy to debug. I've learned that reliability isn't a feature you add at the end. It's a decision you make at the start.
- 
-The DevOps side came naturally. Once you care enough about what happens after your code merges, you end up learning Kubernetes, ArgoCD, and GitLab CI. You start writing pipelines because a slow, manual release process is just technical debt you pay on every deploy.
- 
-On the frontend, I work in React and Angular. Enough to build things users can actually use, not just things that technically function.
- 
-What I'm focused on right now: where LLMs fit inside backend systems and developer workflows. Not the chatbot angle, the practical one. How do you integrate AI in ways that are reliable, testable, and don't break in production? That's the question I'm chewing on.
- 
+
 A few things I actually believe:
  
-‣ The right tool beats the fashionable tool.
-‣ Observability is the feature nobody asks for until they're on a call at midnight.
-‣ Clean code isn't about aesthetics. It's about how fast your next teammate can understand what you built.
+- The right tool beats the fashionable tool.
+- Observability is the feature nobody asks for until they're on a call at midnight.
+- Clean code isn't about aesthetics. It's about how fast your next teammate can understand what you built.
  
 If you're working on something complex enough to be interesting, I'd like to hear about it.
  
