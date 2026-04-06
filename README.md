@@ -21,6 +21,8 @@ A few things I actually believe:
 - Clean code isn't about aesthetics. It's about how fast your next teammate can understand what you built.
  
 If you're working on something complex enough to be interesting, I'd like to hear about it.
+
+You can explore my past projects here: [Old Github Account](https://github.com/ramzibouzaiene)
  
 ## 🛠 Technologies
 
