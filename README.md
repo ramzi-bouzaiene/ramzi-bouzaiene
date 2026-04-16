@@ -7,7 +7,7 @@
 Hi 👋 My name is <a href="https://ramzibouzaiene.vercel.app/" target="_blank">Ramzi Bouzaiene</a>
 ================================
  
-Full Stack Software Engineer
+Full Stack Software Engineer ![Status](https://img.shields.io/badge/Status-Building%20in%20Private-000000?style=for-the-badge&labelColor=111111)
 ------------------
  
 With 5+ years of experience, I've built things that run in production and stay running.
@@ -23,8 +23,6 @@ A few things I actually believe:
 If you're working on something complex enough to be interesting, I'd like to hear about it.
 
 You can explore my past projects here: [Old Github Account](https://github.com/ramzibouzaiene)
-
-![Status](https://img.shields.io/badge/Status-Building%20in%20Private-000000?style=for-the-badge&labelColor=111111)
  
 ## 🛠 Technologies
 
