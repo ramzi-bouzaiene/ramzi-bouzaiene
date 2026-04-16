@@ -23,6 +23,8 @@ A few things I actually believe:
 If you're working on something complex enough to be interesting, I'd like to hear about it.
 
 You can explore my past projects here: [Old Github Account](https://github.com/ramzibouzaiene)
+
+`// building in private`
  
 ## 🛠 Technologies
 
