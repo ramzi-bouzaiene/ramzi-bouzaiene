@@ -24,7 +24,7 @@ If you're working on something complex enough to be interesting, I'd like to hea
 
 You can explore my past projects here: [Old Github Account](https://github.com/ramzibouzaiene)
 
-`// building in private`
+![Status](https://img.shields.io/badge/Status-Building%20in%20Private-000000?style=for-the-badge&labelColor=111111)
  
 ## 🛠 Technologies
 
