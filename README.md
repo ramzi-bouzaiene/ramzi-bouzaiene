@@ -83,4 +83,4 @@ You can explore my past projects here: [Old Github Account](https://github.com/r
 
 ![ramzi-bouzaiene's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramzi-bouzaiene&theme=vue-dark&hide_border=false)
 
-![ramzi-bouzaiene's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzi-bouzaiene&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzi-bouzaiene&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
