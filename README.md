@@ -76,9 +76,7 @@ You can explore my past projects here: [Old Github Account](https://github.com/r
 ### Build Tools ⚡
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
- 
-### Socials
- 
-<p align="left"> <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@ramzibouzaiene.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> </p>
 
-![ramzi-bouzaiene's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramzi-bouzaiene&theme=vue-dark&hide_border=false)  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzi-bouzaiene&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ramzi-bouzaiene's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramzi-bouzaiene&theme=vue-dark&hide_border=false)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzi-bouzaiene&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
