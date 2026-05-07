@@ -77,6 +77,12 @@ You can explore my past projects here: [Old Github Account](https://github.com/r
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+### AI & Tools 🤖
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Github-Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 ![ramzi-bouzaiene's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramzi-bouzaiene&theme=vue-dark&hide_border=false)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzi-bouzaiene&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
