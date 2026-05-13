@@ -85,4 +85,4 @@ You can explore my past projects here: [Old Github Account](https://github.com/r
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ramzi-bouzaiene&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzi-bouzaiene&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-top-languages-badges.vercel.app/api/top-langs?user=ramzi-bouzaiene&theme=dark&compact=false&hide_title=false)
