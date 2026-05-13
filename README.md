@@ -83,6 +83,6 @@ You can explore my past projects here: [Old Github Account](https://github.com/r
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramzi-bouziene&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramzi-bouzaiene&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzi-bouzaiene&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
